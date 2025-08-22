@@ -1,0 +1,16 @@
+1.Run the main.py file
+2.Put the profile picture as prof.png in the prof_pic folder (you can change then name in the reddid_card.py file at the middle if you want!!!).
+3.videos will be inside the video file after they are created.
+4.tkinter file is broken it is an start for you to improve on if you want (I felt bored making it!!!).
+5.add background videos into the bh_video folder named as 1.mp4 (Or change the code).
+6.Dont delete any other file.
+7.put 1 or multiple api keys from gemani to the file named Api_keys.txt (Get it from here: [https://aistudio.google.com/app/apikey]).
+8.Bro Do what ever you want with this this is also my first project by the way other than the cs50 projects.
+
+pip installs:
+
+	pip install moviepy 
+	pip install pillow
+	pip install faster-whisper
+	pip install google-genai
+	
